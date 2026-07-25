@@ -1,4 +1,7 @@
-![image of me](banner2.png)
+![image of me](banner2.png)  
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!--
 **SandinaRajapaksha/SandinaRajapaksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
