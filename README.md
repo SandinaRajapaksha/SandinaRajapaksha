@@ -1,4 +1,4 @@
-## Hi there 👋
+![image of me](banner.png)
 
 <!--
 **SandinaRajapaksha/SandinaRajapaksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
